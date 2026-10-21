@@ -1,0 +1,6 @@
+{
+  "name": "Phù Khê Thông Minh AI 2026",
+  "description": "Ứng dụng AI giáo dục lớp 2 kết nối di sản làng nghề mộc Phù Khê với Toán, Tiếng Việt, Tự nhiên & Xã hội và STEM. Tác giả: Dương Thị Huệ - Trường Tiểu học Phù Khê 2, Bắc Ninh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
